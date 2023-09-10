@@ -319,7 +319,7 @@
 			(document.getElementById('adrbar') as HTMLInputElement)!.placeholder = url;
 			var iframe = document.createElement('iframe');
 			iframe.src = 'https://PATHTOYOURPROXY.tld' + '/service/route?url=' + encodeURIComponent(url);
-			iframe.className = '.extFrame';
+			iframe.className = 'extFrame';
 			iframe.style.width = '100%';
 			iframe.style.height = 'calc(100% - 133px)';
 			iframe.style.border = 'none';
