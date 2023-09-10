@@ -371,6 +371,7 @@
 <div id="settings-temp" style="overflow:auto;display: none;" class="extFrame">
 	<center style="overflow:auto">
 		<h1 class="settingsHeader">Settings</h1>
+		<h4>Make sure to test your panic hotkeys.</h4>
 		<br />
 		<br />
 		<div class="settingCards">
@@ -393,7 +394,7 @@
 				<input type="text" placeholder="Enter URL" onchange="cloakFavicon(this.value)" />
 			</div>
 			<div class="abyssCard">
-				<h1>Panic Key</h1>
+				<h1>Panic Keys</h1>
 				<h2>Panic Keybind</h2>
 				<input type="text" readonly placeholder="Enter key" onclick="recordKeys(this, 500)" />
 				<br />
