@@ -304,6 +304,22 @@
 			if (ts.getActiveTab().findFirstIFrame()) {
 				ts.getActiveTab().findFirstIFrame().remove();
 			}
+			if (!/^(https?:\/\/)[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,30}/.test(url)) {
+				url = 'https://www.google.com/search?q=' + url;
+			}
+			if (!/^(https?:\/\/)/.test(url)) {
+				url = 'https://' + url;
+			}
+			(document.getElementById('adrbar') as HTMLInputElement)!.value = "";
+			(document.getElementById('adrbar') as HTMLInputElement)!.placeholder = url;
+			var iframe = document.createElement('iframe');
+			iframe.src = "https://PATHTOYOURPROXY.tld" + "/service/route?url=" + encodeURIComponent(url);
+			iframe.className = ".extFrame";
+			iframe.style.width = "100%";
+			iframe.style.height = "calc(100% - 133px)";
+			iframe.style.border = "none";
+			iframe.style.background = "#111";
+			ts.getActiveTab().getTabElement().appendChild(iframe);
 		}
 	};
 
