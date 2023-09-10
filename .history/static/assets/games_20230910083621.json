@@ -1,0 +1,58 @@
+{
+	"TestingCategory": [
+		{
+			"name": "This is a great test",
+			"url": "https://www.google.com",
+			"image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+		}
+	],
+    "TestingCategory2": [
+        {
+            "name": "and has several",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory3": [
+        {
+            "name": "different categories",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory4": [
+        {
+            "name": "to show off",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory5": [
+        {
+            "name": "what can be done.",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory6": [
+        {
+            "name": "This also has a",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory7": [
+        {
+            "name": "quite simple JSON",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "TestingCategory8": [
+        {
+            "name": "This ",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ]
+}

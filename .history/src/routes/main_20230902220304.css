@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	color: #fefefe;
+	background: #111111;
+}
+
+footer {
+	height: 56px;
+	background: #000;
+	color: #fefefe;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	font-size: 15px;
+	font-weight: 400;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 100;
+	font-family: 'Roboto', sans-serif;
+}
+footer a {
+	color: #fefefe;
+	text-decoration: none;
+	margin-left: 40px;
+}
+footer p {
+	right: 40px;
+	position: absolute;
+}
+
+.logoCard {
+}

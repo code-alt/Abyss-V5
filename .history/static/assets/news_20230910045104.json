@@ -1,0 +1,16 @@
+{
+    "content": "Abyss v5 is now released! Make sure to <a href='https://discord.gg/goabyss'>join the discord.</a>",
+    "gamesContent": "We have some brand new games, as per our release!",
+    "includeGames": [
+        {
+            "name": "EGame 1",
+            "url": "http://www.example.com/game1",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        },
+        {
+            "name": "Game 2",
+            "url": "http://www.example.com/game2",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ]
+}

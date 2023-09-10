@@ -1,0 +1,23 @@
+{
+	"Featured": [
+		{
+			"name": "Testing Game (Featured)",
+			"url": "https://www.google.com",
+			"image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+		}
+	],
+    "New": [
+        {
+            "name": "Testing Game (New)",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ],
+    "Popular": [
+        {
+            "name": "Testing Game (Popular)",
+            "url": "https://www.google.com",
+            "image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+        }
+    ]
+}
